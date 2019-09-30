@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- values -->
+    <!--dp -->
+    <dimen name="pd1">1dp</dimen>
+    <dimen name="pd2">2dp</dimen>
+    <dimen name="pd3">3dp</dimen>
+    <dimen name="pd4">4dp</dimen>
+    <dimen name="pd6">6dp</dimen>
+    <dimen name="pd8">8dp</dimen>
+    <dimen name="pd9">9dp</dimen>
+    <dimen name="pd12">12dp</dimen>
+    <dimen name="pd15">15dp</dimen>
+    <dimen name="pd16">16dp</dimen>
+    <dimen name="pd18">18dp</dimen>
+    <dimen name="pd21">21dp</dimen>
+    <dimen name="pd24">24dp</dimen>
+    <dimen name="pd27">27dp</dimen>
+    <dimen name="pd30">30dp</dimen>
+    <dimen name="pd32">32dp</dimen>
+    <dimen name="pd33">33dp</dimen>
+    <dimen name="pd36">36dp</dimen>
+    <dimen name="pd39">39dp</dimen>
+    <dimen name="pd42">42dp</dimen>
+    <dimen name="pd45">45dp</dimen>
+    <dimen name="pd48">48dp</dimen>
+    <dimen name="pd51">51dp</dimen>
+    <dimen name="pd54">54dp</dimen>
+    <dimen name="pd57">57dp</dimen>
+    <dimen name="pd60">60dp</dimen>
+    <dimen name="pd66">66dp</dimen>
+    <dimen name="pd72">72dp</dimen>
+    <dimen name="pd78">78dp</dimen>
+    <dimen name="pd80">80dp</dimen>
+    <dimen name="pd84">84dp</dimen>
+    <dimen name="pd90">90dp</dimen>
+    <dimen name="pd96">96dp</dimen>
+    <dimen name="pd102">102dp</dimen>
+    <dimen name="pd108">108dp</dimen>
+    <dimen name="pd111">111dp</dimen>
+    <dimen name="pd120">120dp</dimen>
+    <dimen name="pd132">132dp</dimen>
+    <dimen name="pd144">144dp</dimen>
+    <dimen name="pd150">150dp</dimen>
+    <dimen name="pd160">160dp</dimen>
+    <dimen name="pd172">172dp</dimen>
+    <dimen name="pd180">180dp</dimen>
+    <dimen name="pd198">198dp</dimen>
+    <dimen name="pd210">210dp</dimen>
+    <dimen name="pd216">216dp</dimen>
+    <dimen name="pd230">230dp</dimen>
+    <dimen name="pd240">240dp</dimen>
+    <dimen name="pd270">270dp</dimen>
+    <dimen name="pd300">300dp</dimen>
+    <dimen name="pd320">320dp</dimen>
+    <dimen name="pd360">360dp</dimen>
+
+
+
+
+    <!--px -->
+
+    <dimen name="ps10">10sp</dimen>
+    <dimen name="ps11">11sp</dimen>
+    <dimen name="ps12">12sp</dimen>
+    <dimen name="ps14">14sp</dimen>
+    <dimen name="ps15">15sp</dimen>
+    <dimen name="ps16">16sp</dimen>
+    <dimen name="ps18">18sp</dimen>
+    <dimen name="ps20">20sp</dimen>
+    <dimen name="ps21">21sp</dimen>
+    <dimen name="ps24">24sp</dimen>
+    <dimen name="ps30">30sp</dimen>
+    <dimen name="ps34">34sp</dimen>
+
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="shadow_end_color">#03000000</color>
+    <color name="shadow_start_color">#37000000</color>
+
+
+    <color name="colorPrimary">#3F51B5</color>
+
+    <color name="colorPrimaryDark">#303F9F</color>
+
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#fff</color>
+
+    <color name="black">#000</color>
+
+    <color name="black.text">#d8000000</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="transparent.half">#8f000000</color>
+
+    <color name="transparent.half2">#3D000000</color>
+
+    <color name="grey.100">#F5F5F5</color>
+
+    <color name="grey.200">#eee</color>
+
+    <color name="grey.300">#E0E0E0</color>
+
+    <color name="grey.500">#9E9E9E</color>
+
+    <color name="red.500">#f44336</color>
+
+    <color name="red.700">#D32F2F</color>
+
+    <color name="red.red">#c60202</color>
+
+    <color name="orange.300">#ffb74d</color>
+
+    <color name="orange.press">#c28833</color>
+
+</resources>

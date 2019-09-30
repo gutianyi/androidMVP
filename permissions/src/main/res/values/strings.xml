@@ -1,0 +1,8 @@
+<resources>
+    <string name="rationale_ask">权限限制，该应用可能无法正常使用。</string>
+    <string name="rationale_ask_again">
+        权限限制，该应用可能无法正常使用。
+        打开App设置，修改应用权限。
+    </string>
+    <string name="title_settings_dialog">权限请求</string>
+</resources>
